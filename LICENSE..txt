@@ -1,0 +1,5 @@
+LICENSE.
+Copyright (c) 2024 SEMA KING Designs
+All Rights Reserved.
+
+Permission is granted to use, copy, and distribute the software with proper attribution, provided that no commercial use is made of the designs without explicit permission from the author.
